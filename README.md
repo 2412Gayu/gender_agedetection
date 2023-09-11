@@ -1,5 +1,4 @@
-# Gender-and-Age-Detection   <img alt="GitHub" Gender-and-Age-Detection">
-
+# Gender-and-Age-Detection  
 
 
 <h2>Objective :</h2>
